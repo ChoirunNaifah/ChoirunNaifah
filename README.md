@@ -1,15 +1,19 @@
 <h1 align="center">Hi there! 🐰 I'm Choirun Naifah</h1>
 
 <p align="center">
+ 
 </p>
 
 ---
 
 ### 💫 About Me:
-- 🌸 I’m interested in Front-End Web Development
-- 📚 I’m currently learning JavaScript, HTML, CSS
-- 🤝 I’m looking to collaborate on fun, creative coding projects
-- ✨ I love mixing design + code to make beautiful things!
+- 🌸 I’m interested in creative and impactful tech projects
+- 📚 I’m currently learning:
+  - 🌐 Web Development  
+  - 🎨 UI/UX Design  
+  - 📊 Data Analyst
+- 🤝 I’m looking to collaborate on fun, aesthetic, and educational coding projects
+- ✨ I love mixing design + logic to build meaningful user experiences
 - 📫 How to reach me: `cnaifaaa@outlook.com`
 
 ---
@@ -17,13 +21,23 @@
 ### 🧠 Fun Fact:
 > “Coding is like magic—but you're the wizard.” 🪄✨
 
----
-
-### 🛠️ Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-<p align="center">Thanks for visiting! 🌷</p>
+### 💼 Skill
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-blue?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Analyst-blue?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge&logo=brainly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pemrograman%20Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mengelola%20Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20Office-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Communication-blue?style=for-the-badge&logo=googlechat&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! 🌷 Let's build something awesome together.</p>
