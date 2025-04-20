@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me:
-- 🌸 I’m interested in creative and impactful tech projects
+- 🔮 I’m interested in creative and impactful tech projects
 - 📚 I’m currently learning:
   - 🌐 Web Development  
   - 🎨 UI/UX Design  
